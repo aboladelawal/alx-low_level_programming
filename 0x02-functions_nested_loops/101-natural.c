@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-*main - main block of code to be executed 
-*Description: computes and print sum of all multiples of 3
+*main - main block of code
+*Description: computes and print 
 *Return: 0
 */
 int main(void)
