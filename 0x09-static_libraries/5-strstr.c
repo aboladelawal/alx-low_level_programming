@@ -16,7 +16,8 @@ if (*haystack++ != *needle++)
 {
 break;
 }
-}										if (!*needle)
+}
+if (!*needle)
 {
 return (result);
 }
