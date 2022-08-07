@@ -7,7 +7,7 @@
  * @n: number of parameters
  * Return: total sum
  */
-int sum_them_all(int n, ...)
+int sum_them_all(const unsigned int n, ...)
 {
 	va_list arg;
 	int i;
